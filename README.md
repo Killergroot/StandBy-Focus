@@ -10,7 +10,10 @@
 
   <h1>Built with MY own creation</h1>
 
-  <p>Only with less distractions</p>
+  <p>Less Distractions</p>
 
 </div>
 
+
+
+just download and install the app
